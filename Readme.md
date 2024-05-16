@@ -1,3 +1,5 @@
 This repo contains basic Python problems that help me learn this programming language.
 
-https://readthedocs.org/projects/python-practice-book/downloads/pdf/latest/    pg 50 (54 of 59)
+https://readthedocs.org/projects/python-practice-book/downloads/pdf/latest/   
+
+https://eecs.wsu.edu/~schneidj/PyBook/swan.pdf
